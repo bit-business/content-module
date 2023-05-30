@@ -2,7 +2,7 @@
 Manage your website content through dashboard easily out of the box
 
 ## How to installation content manager module
-1. <a href="https://skijasi-docs.uatech.co.id/docs/en/getting-started/installation/" target="blank"> Install Skijasi </a> from laravel project
+1. <a href="https://skijasi-docs.nadzorserveraweb.hr/docs/en/getting-started/installation/" target="blank"> Install Skijasi </a> from laravel project
 2. Install skijasi content module
 
 For v2.x (Laravel 8)

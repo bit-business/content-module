@@ -1,40 +1,4 @@
-# Contribute to Skijasi Content Module
 
-Skijasi Content Module is an open-source project administered by [nadzorservera](https://soft.uatech.co.id). We appreciate your interest and efforts to contribute to Skijasi Content Module.
-
-All efforts to contribute are highly appreciated, we recommend you talk to a maintainer prior to spending a lot of time making a pull request that may not align with the project roadmap.
-
-## Open Development & Community Driven
-
-Skijasi Content Module is an open-source project. See the [license](https://github.com/nadzorservera-croatia/skijasi-content-module/blob/master/license) file for licensing information. All the work done is available on GitHub.
-
-The core team and the contributors send pull requests which go through the same validation process.
-
-## Feature Requests
-
-Feature Requests by the community are highly encouraged. Please feel free to submit your ides on [github discussion](https://github.com/nadzorservera-croatia/skijasi-content-module/discussions/categories/ideas)
-
-## Code of Conduct
-
-This project and everyone participating in it are governed by the [Skijasi Content Module Code of Conduct](code_of_conduct.md). By participating, you are expected to uphold this code. Please read the [full text](code_of_conduct.md) so that you can read which actions may or may not be tolerated.
-
-## Bugs
-
-We are using [GitHub Issues](https://github.com/nadzorservera-croatia/skijasi-content-module/issues) to manage our public bugs. We keep a close eye on this so before filing a new issue, try to make sure the problem does not already exist.
-
----
-
-## Before Submitting a Pull Request
-
-The core team will review your pull request and will either merge it, request changes to it, or close it.
-
-**Before submitting your pull request** make sure the following requirements are fulfilled:
-
-To do : complete this section
-
-## Contribution Prerequisites
-
-- You are familiar with Git.
 
 ## Development Workflow
 

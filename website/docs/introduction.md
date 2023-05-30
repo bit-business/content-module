@@ -6,7 +6,7 @@ slug: /
 # Introduction
 
 <p align="center">
-  <a href="https://skijasi-docs.uatech.co.id/">
+  <a href="https://skijasi-docs.nadzorserveraweb.hr/">
     <img src="img/skijasi-content-logo.png" width="150px" alt="Skijasi logo" />  
   </a>
   <p><b>skijasi/content-module</b></p>
