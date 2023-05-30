@@ -1,0 +1,46 @@
+{
+  "name": "skijasi/content-module",
+  "version": "2.1.0",
+  "description": "Manage website content through skijasi",
+  "keywords": [
+    "laravel",
+    "admin",
+    "panel",
+    "dashboard",
+    "pwa",
+    "vue",
+    "generator",
+    "blog",
+    "skijasi"
+  ],
+  "license": "proprietary",
+  "homepage": "https://skijasi.uatech.co.id/",
+  "support": {
+    "issues": "https://github.com/nadzorservera-croatia/skijasi-content-module/issues",
+    "discussion": "https://github.com/nadzorservera-croatia/skijasi-content-module/discussions",
+    "source": "https://github.com/nadzorservera-croatia/skijasi-content-module"
+  },
+  "type": "library",
+  "require": {
+    "symfony/var-exporter": "^5.2.0|^6.0"
+  },
+  "authors": [
+    {
+      "name": "NADZORSERVERA",
+      "email": "hello@uatech.co.id"
+    }
+  ],
+  "minimum-stability": "alpha",
+  "autoload": {
+    "psr-4": {
+      "NadzorServera\\Skijasi\\Module\\Content\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "NadzorServera\\Skijasi\\Module\\Content\\Providers\\SkijasiContentModuleServiceProvider"
+      ]
+    }
+  }
+}
